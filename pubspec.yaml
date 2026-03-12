@@ -1,0 +1,49 @@
+name: donviva
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+  google_sign_in: ^6.2.2
+
+  # API & Env Dependencies
+  http: ^1.1.0
+  flutter_dotenv: ^5.1.0
+
+  # UI Dependencies
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  geolocator: ^14.0.2
+  url_launcher: ^6.3.2
+  intl: ^0.20.2
+  firebase_messaging: ^15.2.10
+  flutter_local_notifications: ^21.0.0
+  onesignal_flutter: ^5.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/banner.png
+    - assets/donation.png
+    - assets/appointment.png
+    - assets/hand_donation.png
+    - assets/profile_pic.png
+    - .env

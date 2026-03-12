@@ -1,0 +1,12 @@
+{
+  "name": "donviva-functions",
+  "description": "Cloud Functions for Donviva App",
+  "dependencies": {
+    "firebase-admin": "^11.0.0",
+    "firebase-functions": "^4.0.0"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "private": true
+}

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "768614225717",
+    "project_id": "donviva",
+    "storage_bucket": "donviva.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768614225717:android:1a4e2d18f4cb034a7a1e7c",
+        "android_client_info": {
+          "package_name": "com.example.donviva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768614225717-4t7k6pb5cskkikq345ntelfmqe9fk1g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.donviva",
+            "certificate_hash": "efd8063e191774ba776084675d927f7c115b47b0"
+          }
+        },
+        {
+          "client_id": "768614225717-6573mlushnhhnmgtm0jktvc6riujfgva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHgUV0fq54V_C-r9wqNOB8W6HBEQOeYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768614225717-6573mlushnhhnmgtm0jktvc6riujfgva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "768614225717-gnp8rv7lupmea55i2vvtsqhg94509kd6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.donviva"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
