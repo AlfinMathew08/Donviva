@@ -28,7 +28,7 @@ dependencies:
   url_launcher: ^6.3.2
   intl: ^0.20.2
   firebase_messaging: ^15.2.10
-  flutter_local_notifications: ^21.0.0
+  flutter_local_notifications: ^20.1.0
   onesignal_flutter: ^5.2.2
 
 dev_dependencies:
